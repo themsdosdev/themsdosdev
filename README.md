@@ -11,7 +11,6 @@ Writing in my blog, where I share insights about civil engineering.
 Reading books 📚.\
 ❤️ &nbsp;I love creating solutions related to civil engineering 🏗️ to boost productivity and efficiency.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
